@@ -13,8 +13,9 @@ Here are the main components and technologies used in this project:
 10. Jinja2 Templating
 11. Deployment
 12. Search Functionality
-    <br>
+    <br> <br>
 Necessary Libraries:
+<br> <br>
 1. import urllib.request
 2. import pandas as pd
 3. from bs4 import BeautifulSoup
