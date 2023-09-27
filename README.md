@@ -1,5 +1,5 @@
 # Product Recommendation system
-This project is a user-friendly web application that simplifies online shopping by allowing users to search for products and conduct detailed comparisons between Flipkart and Amazon. Through web scraping, it collects data on product details, normalizes prices and reviews, and presents the information via a Flask-based interface, assisting users in making informed purchasing decisions.
+This project is a user-friendly web application that simplifies online shopping by allowing users to search for products and conduct detailed comparisons between Flipkart and Amazon. Through web scraping, it collects data on product details, normalizes prices and reviews, and presents the information via a Flask-based interface, assisting users in making informed purchasing decisions.<br>
 Here are the main components and technologies used in this project:
 1. Python
 2. Flask Routes
